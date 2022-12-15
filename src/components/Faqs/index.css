@@ -1,0 +1,24 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.faqs-container {
+  background-color: #ffffff;
+  background-size: cover;
+  padding: 70px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  border-radius: 10px;
+
+  list-style-type: none;
+}
